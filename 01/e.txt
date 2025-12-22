@@ -3,5 +3,5 @@ IS NUMBER EVEN OR ODD
 start 
 input a 
 check a % 2 == 0 -> yes -> print even 
-                     -> no -> print odd 
+                -> no -> print odd 
 end
