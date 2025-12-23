@@ -1,4 +1,4 @@
-// ternary statement
+// ternary operator examples
 
 #include <iostream>
 using namespace std;
